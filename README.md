@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Taran. I'm a graduate student in Electrical & Computer Engineering at Embry‑Riddle Aeronautical University.<br>I build robust, scalable systems designed to stay reliable in real operational environments with a focus on creating technologies that meaningfully improve how people learn, work, and interact with the world.<br>Some of the projects I’m currently working on include:<br>- Weather/ETA Data Pipeline —  a production system that aggregates hourly weather conditions and ETA data to support administrative decision‑making and validate flight cancellations. It integrates National Weather Service gridpoint forecasts with ETA records, expanding and merging them into a unified hourly dataset. Built with a Python backend, Flask/React frontend, SQLite storage, and REST‑based JSON workflows, the system handles complex engineering challenges including timestamp alignment, data expansion, defensive rendering, and long‑duration reliability. Actively used in operations, it provides administrators with clear, data‑driven insight into when and why flights are cancelled, improving the accuracy and consistency of cancellation validation.<br>- Nav Timer — an embedded aviation timing system that supports pilot navigation challenges by tracking legs, times, speeds, and GPS‑based positions without reliance on cockpit instruments. Built on Arduino in C, it combines GPS‑synchronized timekeeping with a fault‑tolerant internal clock to maintain accuracy during short GPS dropouts. A custom touchscreen UI and stability‑focused architecture ensure reliable performance during real training flights. Pilot scores for this challenge have risen by 30% due to the aid of this timer contributing to the flight team's success in winning first-place trophies in both regional and national competitions.. <br>I’m especially interested in software engineering, embedded development, aerospace systems, and simulation‑driven tools that support real‑world training and decision‑making.<br>
 
-<!--
-**DarthSimpius/DarthSimpius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/taran-sindhu-277aa72a5) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DarthSimpius&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DarthSimpius&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthSimpius&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DarthSimpius&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
